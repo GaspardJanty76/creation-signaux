@@ -21,7 +21,7 @@ pip install pyaudio
 
 ## 2 | Utilité du code 
 
-Ce code permet de générer des signaux sonores, un graphique et de lancer le son en renseignant uniquement la fréquence du son que vous voulez générer.
+Ce code permet de générer des signaux sonores, un graphique et de lancer le son en renseignant uniquement la fréquence du son que vous voulez générer. Ensuite vous pouvez multiplier le dernier signal avec le signal de votre choix et afficher le graph.
 
 **Voici un exemple de ce que renvoi ce code en plus de générer un fichier sonore et de le lire**
 
