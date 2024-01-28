@@ -26,4 +26,6 @@ Ce code permet de générer des signaux sonores, un graphique et de lancer le so
 **Voici un exemple de ce que renvoi ce code en plus de générer un fichier sonore et de le lire**
 
 ![Alt text](image.png)
+
+![Alt text](Son3.wav)
  
